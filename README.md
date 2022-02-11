@@ -14,7 +14,7 @@
 
   ##
   
-  Onde me encontrar :point_down:
+  Social networks :point_down:
   
 <div aling="center">
     <a href="/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=appveyor&logo=linkedin&logoColor=white"></a>
