@@ -3,7 +3,7 @@
   <img src="src/assets/icon/megif.gif">
 </div>
 
-:woman_technologist: Acadêmica em Análise e Desenvolvimento de Sistemas <br>
+:woman_technologist: Acadêmica de Análise e Desenvolvimento de Sistemas <br>
 :round_pushpin: RS/Brasil
 
 ##
