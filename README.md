@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Letícia Santos 👋
 <div align="center">
-  ![megif]
+  <img src="src/assets/icon/megif.gif">
 </div>
 
 :woman_technologist: Acadêmica em Análise e Desenvolvimento de Sistemas <br>
