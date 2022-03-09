@@ -1,6 +1,6 @@
 <div align="center">
   <h2><img src="src/assets/icon/megif.gif">Olá!! Eu sou a Letícia Santos 👋</h2>
-  <p>:woman_technologist: Graduanda em Análise e Desenvolvimento de Sistemas (4/6)</p>
+  <p>:woman_technologist: Graduanda em Análise e Desenvolvimento de Sistemas (5/6)</p>
   
   <p>Redes Sociais :point_down: </p>
   <a href="/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=appveyor&logo=linkedin&logoColor=white"></a>
