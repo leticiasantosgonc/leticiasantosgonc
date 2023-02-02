@@ -7,8 +7,4 @@
 ##
 
 <p>Me chamo Letícia Santos e sou estudante de Análise e Desenvolvimento de Sistemas. </p>
-  
-##
-
-<a href="https://github.com/leticiasantosgonc"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiasantosgonc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </a>
 
