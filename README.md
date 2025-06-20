@@ -1,7 +1,7 @@
 # 👩‍💻 Olá, eu sou a Letícia! 🚀
 
 🎓 **Formada em Análise e Desenvolvimento de Sistemas** pelo IFRS  
-💻 **Desenvolvedora de Software desde 2023** — com foco no **Front-end** e no **Desenvolvimento Mobile**  
+💻 **Desenvolvedora de Software desde 2023** — com foco no **Front-end** e no **Mobile**  
 🌎 Apaixonada por tecnologia, colaboração e criar experiências incríveis para usuários!
 
 ---
